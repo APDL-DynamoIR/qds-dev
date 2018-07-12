@@ -1,0 +1,7 @@
+build-*
+!build-group.pri
+!build-root.pri
+targets
+Contents
+*.pro.user
+
